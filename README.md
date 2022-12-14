@@ -6,3 +6,5 @@
 ## Create a way that checks the state of if the game is started or not
 
 ## click listener 
+
+### man just watch a video how simon says works idk man 
