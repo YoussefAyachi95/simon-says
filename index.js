@@ -51,7 +51,7 @@ const checkAnswer = (color) => {
     } else {
         let title = document.getElementById("level-title");
         title.textContent = "Game Over! Click to restart";
-        playAudio(wrong);
+        playAudio("wrong");
         userPattern = [];
         correctPattern = [];
     }
